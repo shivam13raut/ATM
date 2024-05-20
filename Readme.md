@@ -20,7 +20,7 @@ Ensure that the code takes care of the following:
 - Provide Unit Test Cases using JUNIT (if you are not conversant with JUNIT, just list down unit test cases)
 
 ## NFRs
-[Readme.md](Readme.md)
+
 - Duration of this exercise is 90 minutes. Please manage your time accordingly,
 - Make any necessary assumption, and clearly state the assumptions made.
 - Do not seek any help online or through any other source.
