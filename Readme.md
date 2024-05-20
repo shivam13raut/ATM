@@ -53,3 +53,9 @@ Ensure that the code takes care of the following:
 - Resolve maven dependencies
 - Run `mvn clean` and if this was success
 - Now Run the app with `mvn exec:java` and check console for results
+
+## Feature Scope 
+- we can add a Datase for storing user data
+- Allow user to withdraw cash from atm by entering the desired amount ,and display the transaction details in the console
+- Allow users to change there PIN for security purpose
+  
